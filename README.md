@@ -8,4 +8,4 @@ hello world ioa m back
 <br> i am back with  the  bang
 <br>hello world duck u
 
-<h1> muhammad mera bhai hai me azan ye bbolrah hu </h1>
+<h1> muhammad ammar mera bhai hai me azan ye bbolrah hu </h1>
